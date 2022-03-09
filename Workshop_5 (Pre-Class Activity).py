@@ -1,0 +1,6 @@
+print(True and True)
+print(False and True)
+print(1 == 1)
+print("test" == "test")
+print(not (10 == 1 or 1000 == 1000 ))
+print('ayaz' == 'ayaz')
